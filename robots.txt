@@ -1,9 +1,0 @@
-# robots.txt for Legacy Path Capital
-User-agent: *
-Allow: /
-
-# Sitemap location
-Sitemap: https://legacypath.ca/sitemap.xml
-
-# Crawl-delay to prevent server overload
-Crawl-delay: 10 
